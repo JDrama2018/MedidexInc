@@ -1,0 +1,117 @@
+
+/* Class = "UIButton"; normalTitle = "For Insurance Providers"; ObjectID = "00x-Iw-iYS"; */
+"00x-Iw-iYS.normalTitle" = "For Insurance Providers";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "0Aw-4z-rU9"; */
+"0Aw-4z-rU9.placeholder" = "Password";
+
+/* Class = "UIButton"; normalTitle = "For Researchers"; ObjectID = "1fF-ne-aKy"; */
+"1fF-ne-aKy.normalTitle" = "For Researchers";
+
+/* Class = "UILabel"; text = "Who want to have secure access to healthcare in the palm of their hand"; ObjectID = "6qH-c6-rBg"; */
+"6qH-c6-rBg.text" = "Who want to have secure access to healthcare in the palm of their hand";
+
+/* Class = "UITextField"; placeholder = "Username"; ObjectID = "8YG-9E-wAu"; */
+"8YG-9E-wAu.placeholder" = "Username";
+
+/* Class = "UILabel"; text = "Who want raw data our healthcare system collects on a daily basis"; ObjectID = "Ahg-lO-6tJ"; */
+"Ahg-lO-6tJ.text" = "Who want raw data our healthcare system collects on a daily basis";
+
+/* Class = "UITextField"; placeholder = "Username"; ObjectID = "Bwt-iN-Ng1"; */
+"Bwt-iN-Ng1.placeholder" = "Username";
+
+/* Class = "UIButton"; normalTitle = "Enroll"; ObjectID = "CFG-OL-3KG"; */
+"CFG-OL-3KG.normalTitle" = "Enroll";
+
+/* Class = "UILabel"; text = "Will allow an account to be created enrolling patient or provider (doctor / nurse)"; ObjectID = "ESw-AT-kcV"; */
+"ESw-AT-kcV.text" = "Will allow an account to be created enrolling patient or provider (doctor / nurse)";
+
+/* Class = "UILabel"; text = "Will allow an account to be created enrolling patient or provider (doctor / nurse)"; ObjectID = "Ecj-nT-ISj"; */
+"Ecj-nT-ISj.text" = "Will allow an account to be created enrolling patient or provider (doctor / nurse)";
+
+/* Class = "UIButton"; normalTitle = "For Patients"; ObjectID = "Fua-1h-tvt"; */
+"Fua-1h-tvt.normalTitle" = "For Patients";
+
+/* Class = "UIButton"; normalTitle = "Find Provider"; ObjectID = "HN2-zt-p5y"; */
+"HN2-zt-p5y.normalTitle" = "Find Provider";
+
+/* Class = "UIButton"; normalTitle = "Log In"; ObjectID = "JeO-Wn-5RO"; */
+"JeO-Wn-5RO.normalTitle" = "Log In";
+
+/* Class = "UIButton"; normalTitle = "Enroll"; ObjectID = "K2e-3B-waU"; */
+"K2e-3B-waU.normalTitle" = "Enroll";
+
+/* Class = "UILabel"; text = "Will allow an account to be created enrolling patient or provider (doctor / nurse)"; ObjectID = "LMb-iv-Wwd"; */
+"LMb-iv-Wwd.text" = "Will allow an account to be created enrolling patient or provider (doctor / nurse)";
+
+/* Class = "UILabel"; text = "Will allow an account to be created enrolling patient or provider (doctor / nurse)"; ObjectID = "MSw-2N-kPo"; */
+"MSw-2N-kPo.text" = "Will allow an account to be created enrolling patient or provider (doctor / nurse)";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "N6m-UW-8uA"; */
+"N6m-UW-8uA.placeholder" = "Password";
+
+/* Class = "UIButton"; normalTitle = "For Providers"; ObjectID = "NAF-oZ-3gR"; */
+"NAF-oZ-3gR.normalTitle" = "For Providers";
+
+/* Class = "UIButton"; normalTitle = "Contact"; ObjectID = "NSy-12-uU8"; */
+"NSy-12-uU8.normalTitle" = "Contact";
+
+/* Class = "UIButton"; normalTitle = "Contact"; ObjectID = "Tqm-Nc-r7F"; */
+"Tqm-Nc-r7F.normalTitle" = "Contact";
+
+/* Class = "UIButton"; normalTitle = "Enroll"; ObjectID = "Vr8-cm-0FA"; */
+"Vr8-cm-0FA.normalTitle" = "Enroll";
+
+/* Class = "UIButton"; normalTitle = "Find Provider"; ObjectID = "ZXC-wT-w8x"; */
+"ZXC-wT-w8x.normalTitle" = "Find Provider";
+
+/* Class = "UIButton"; normalTitle = "Log In"; ObjectID = "aa4-wn-F4v"; */
+"aa4-wn-F4v.normalTitle" = "Log In";
+
+/* Class = "UIButton"; normalTitle = "Contact"; ObjectID = "cUx-J6-Z6U"; */
+"cUx-J6-Z6U.normalTitle" = "Contact";
+
+/* Class = "UILabel"; text = "Who want to have all the information to make the best decisions for their patients"; ObjectID = "d1Q-A8-cUn"; */
+"d1Q-A8-cUn.text" = "Who want to have all the information to make the best decisions for their patients";
+
+/* Class = "UIButton"; normalTitle = "Sign Up"; ObjectID = "dDm-r7-82J"; */
+"dDm-r7-82J.normalTitle" = "Sign Up";
+
+/* Class = "UIButton"; normalTitle = "Find Provider"; ObjectID = "eo6-RU-tLC"; */
+"eo6-RU-tLC.normalTitle" = "Find Provider";
+
+/* Class = "UIButton"; normalTitle = "Sign Up"; ObjectID = "f8J-i0-ifn"; */
+"f8J-i0-ifn.normalTitle" = "Sign Up";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "fJw-f7-7nW"; */
+"fJw-f7-7nW.placeholder" = "Password";
+
+/* Class = "UINavigationItem"; title = "Home Page"; ObjectID = "m6U-0h-vGa"; */
+"m6U-0h-vGa.title" = "Home Page";
+
+/* Class = "UIButton"; normalTitle = "Sign Up"; ObjectID = "na6-tV-EcQ"; */
+"na6-tV-EcQ.normalTitle" = "Sign Up";
+
+/* Class = "UIButton"; normalTitle = "Sign Up"; ObjectID = "pDV-ek-Mua"; */
+"pDV-ek-Mua.normalTitle" = "Sign Up";
+
+/* Class = "UILabel"; text = "Who want to know the care their clients are receiving"; ObjectID = "pz7-nv-Lyi"; */
+"pz7-nv-Lyi.text" = "Who want to know the care their clients are receiving";
+
+/* Class = "UIButton"; normalTitle = "Contact"; ObjectID = "uJK-M2-ngW"; */
+"uJK-M2-ngW.normalTitle" = "Contact";
+
+/* Class = "UIButton"; normalTitle = "Enroll"; ObjectID = "vAt-nc-njH"; */
+"vAt-nc-njH.normalTitle" = "Enroll";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "vI3-vW-VIg"; */
+"vI3-vW-VIg.placeholder" = "Password";
+
+/* Class = "UITextField"; placeholder = "Username"; ObjectID = "w1h-Ls-3bp"; */
+"w1h-Ls-3bp.placeholder" = "Username";
+
+/* Class = "UIButton"; normalTitle = "Find Provider"; ObjectID = "wV6-dr-v6i"; */
+"wV6-dr-v6i.normalTitle" = "Find Provider";
+
+/* Class = "UITextField"; placeholder = "Username"; ObjectID = "xjv-4f-Y7D"; */
+"xjv-4f-Y7D.placeholder" = "Username";

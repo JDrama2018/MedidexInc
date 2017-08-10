@@ -1,0 +1,10 @@
+/* Localizable.strings */
+
+"username" = "Username";
+"password" = "Password";
+
+"Good morning" = "Good morning";
+"Good noon" = "Good noon";
+"Good afternoon" = "Good afternoon";
+"Good evening" = "Good evening";
+"Hello" = "Hello";
